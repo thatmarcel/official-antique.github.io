@@ -1,0 +1,8 @@
+Origin: [insert rickroll here]
+Label: Antique
+Suite: release
+Version: 1.0
+Codename: ios-stuff
+Architecture: iphoneos-arm
+Components: main
+Description: Random development stuff.
