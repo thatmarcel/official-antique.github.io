@@ -1,0 +1,82 @@
+Package: com.antique.crash
+Version: 1.0.3
+Section: Utilities
+Maintainer: Antique
+Depends: com.antique.ghost, com.antique.symbolicate
+Architecture: iphoneos-arm
+Filename: https://aor.netlify.app/deb/crash/com.antique.crash_1.0.3.deb
+Size: 235616
+Installed-Size: 468
+MD5sum: 5b3661b38334d9c39e9fc8b1d03b1fbb
+Description: CrashReporter alternative designed for iOS 13.
+Name: Crash
+Author: Antique
+
+Package: com.antique.crash
+Version: 1.0.2
+Section: Utilities
+Maintainer: Antique
+Depends: jp.ashikase.libcrashreport, jp.ashikase.libpackageinfo, jp.ashikase.libsymbolicate, jp.ashikase.symbolicate
+Architecture: iphoneos-arm
+Filename: https://aor.netlify.app/deb/crash/com.antique.crash_1.0.2.deb
+Size: 236340
+Installed-Size: 468
+MD5sum: e6fe66922222b188c78ea4533f0a6d1d
+Description: CrashReporter alternative designed for iOS 13.
+Name: Crash
+Author: Antique
+
+Package: com.antique.crash
+Version: 1.0.4
+Section: Utilities
+Maintainer: Antique
+Depends: com.antique.ghost, com.antique.symbolicate
+Architecture: iphoneos-arm
+Filename: https://aor.netlify.app/deb/crash/com.antique.crash_1.0.4.deb
+Size: 236674
+Installed-Size: 468
+MD5sum: 751ae9f2f3edfbcf21475847b76022ca
+Description: CrashReporter alternative designed for iOS 13.
+Name: Crash
+Author: Antique
+
+Package: com.antique.ghost
+Version: 1.0.2
+Section: System
+Maintainer: Antique
+Architecture: iphoneos-arm
+Filename: https://aor.netlify.app/deb/ghost/com.antique.ghost_1.0.2.deb
+Size: 6806
+Installed-Size: 144
+MD5sum: b9304eb307a6c61fce1c59ea4fa8e4ec
+Description: Upload text files to ghostbin.co.
+Name: Ghost
+Author: Antique
+
+Package: com.antique.ghost
+Version: 1.0.1
+Section: System
+Maintainer: Antique
+Architecture: iphoneos-arm
+Filename: https://aor.netlify.app/deb/ghost/com.antique.ghost_1.0.1.deb
+Size: 6808
+Installed-Size: 144
+MD5sum: 9b790c3bef8fdd64290b7bf2c6404925
+Description: Upload text files to ghostbin.co.
+Name: Ghost
+Author: Antique
+
+Package: com.antique.symbolicate
+Version: 1.0
+Section: System
+Maintainer: Antique
+Depends: jp.ashikase.libcrashreport, jp.ashikase.libpackageinfo, jp.ashikase.libsymbolicate, jp.ashikase.symbolicate
+Architecture: iphoneos-arm
+Filename: https://aor.netlify.app/deb/symbolicate/com.antique.symbolicate_1.0.deb
+Size: 6432
+Installed-Size: 144
+MD5sum: e50113989228d7178a854cf3fc5582ab
+Description: Symbolicate crash logs on device.
+Name: Symbolicate
+Author: Antique
+
